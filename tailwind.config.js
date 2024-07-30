@@ -9,6 +9,7 @@ module.exports = {
       },
       colors: {
         /* ### Primary */
+        "very-dark-cyan": "#1B3F31",
         "dark-cyan": "hsl(158, 36%, 37%)",
         cream: "hsl(30, 38%, 92%)",
 
